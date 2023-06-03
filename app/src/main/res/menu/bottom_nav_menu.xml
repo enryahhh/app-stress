@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_meditation"
+        android:icon="@drawable/ic_meditate_24"
+        android:title="Meditation" />
+
+    <item
+        android:id="@+id/navigation_measure"
+        android:icon="@drawable/ic_monitor_heart_24"
+        android:title="Measure" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_calendar_24"
+        android:title="History" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person_24"
+        android:title="Profile" />
+
+
+</menu>
